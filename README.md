@@ -1,7 +1,7 @@
-👋 Hi, I’m Vamsi Anala.
-👀 I’m interested in learning and building products in tech.
-🌱 I’m currently learning Backend development.
-💞️ I'm excited to get involved in captivating projects and make meaningful contributions.
+- 👋 Hi, I’m Vamsi Anala.
+- 👀 I’m interested in learning and building products in tech.
+- 🌱 I’m currently learning Backend development.
+- 💞️ I'm excited to get involved in captivating projects and make meaningful contributions.
 
 <!--
 **vamsi-anala/vamsi-anala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
